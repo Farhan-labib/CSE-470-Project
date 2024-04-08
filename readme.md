@@ -1,11 +1,22 @@
-# Splitter
+# CSE-470-Project
 
-## Details
-This project is a collaboration effort among the following group members:
-- [Jubayer Hossain](https://github.com/member1)
-- [Farhan Labib Jahin](https://github.com/member2)
-- [Mehedi Hasan Nabil](https://github.com/member3)
-- [Nusrat Jahan Nuha](https://github.com/member4)
+Group No: 7
 
-## Class Diagram
-You can view the Class Diagram [here](https://drive.google.com/file/d/1jZZQdywbWD97aDw5nlAv4G1jH1ety07-/view?usp=drive_link).
+Section: 10
+
+Group Members (Name with ID):
+
+              1.Jubayer Hossain - 21101205
+              
+              2.Nusrat Jahan Nuha - 21141009
+              
+              3.Mehedi Hasan Nabil - 21101203
+              
+              4.Farhan Labib Jahin - 21101204
+              
+
+#Selected Project: Simplifying shared expenses and roommate discovery platform
+
+
+#Class Diagram link: https://drive.google.com/file/d/1jZZQdywbWD97aDw5nlAv4G1jH1ety07-/view?usp=drive_link
+
